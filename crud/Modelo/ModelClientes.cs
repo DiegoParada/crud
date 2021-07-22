@@ -48,7 +48,7 @@ namespace Modelo
             }
             catch (Exception)
             {
-                return retorno = false;
+                return retorno = null;
             }
         }
     }
